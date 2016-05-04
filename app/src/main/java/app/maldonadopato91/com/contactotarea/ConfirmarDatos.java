@@ -36,7 +36,6 @@ public class ConfirmarDatos extends AppCompatActivity {
     }
 
     public void RegresarActividad(View v){
-        Intent intent = new Intent(ConfirmarDatos.this, MainActivity.class);
-        startActivity(intent);
+        finish();
     }
 }
