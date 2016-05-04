@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContactoTarea</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">e-mail</string>
+    <string name="descripContacto">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento: </string>
+    <string name="confirmar_datos">Confirmar Datos </string>
+    <string name="tel">Tel. </string>
+    <string name="email_confdatos">Email. </string>
+    <string name="descrip_confdatos">Descripción:  </string>
+    <string name="editar_datos">Editar Datos  </string>
+</resources>
